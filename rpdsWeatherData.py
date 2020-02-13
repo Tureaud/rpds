@@ -1,6 +1,6 @@
 import requests
 
-api = 'http://api.openweathermap.org/data/2.5/weather?zip=57042&appid=20b04fba04e7d29502d449234e627f47&units=imperial'
+api = 'http://api.openweathermap.org/data/2.5/weather?zip=  REPLACE WITH ZIPCODE &appid= REPLACE WITH API KEY &units=imperial'
 data = requests.get(api).json()
 #Stores weather id/type
 weatherType = data['weather'][0]['main']
