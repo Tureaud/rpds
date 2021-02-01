@@ -1,2 +1,2 @@
-# rpdsWeatherData
-Using an API key from openweathermap.org, display real time weather data.
+# Raspberry Pi Door Sign
+Using python, display various data using API keys, requests, and BeautifulSoup.
