@@ -6,3 +6,8 @@ Using python and the LCD display driver created by Matthew Timmons-Brown, displa
 
 <img src="https://dominick.gq/GitHub/Images/rpdsWD.jpg" width="500" height="500" />
 
+
+![test image size](https://dominick.gq/GitHub/Images/rpdsWD.jpg){:class="img-responsive"}
+![test image size](https://dominick.gq/GitHub/Images/rpdsWD.jpg){:height="50%" width="50%"}
+![test image size](https://dominick.gq/GitHub/Images/rpdsWD.jpg){:height="700px" width="400px"}
+
