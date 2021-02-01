@@ -4,7 +4,7 @@ Using python and the LCD display driver created by Matthew Timmons-Brown, displa
 
 
 <p align="center">
-<img src="https://github.com/Tureaud/rpds/blob/master/Image%20Assets/rpdsWD.jpg" width="500" height="400" />
+<img src="https://github.com/Tureaud/rpds/blob/master/Image%20Assets/rpdsWD.jpg" width="600" height="500" />
 </p>
 
 
