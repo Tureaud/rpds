@@ -1,2 +1,2 @@
 # Raspberry Pi Door Sign
-Using python, display data using API keys, requests, and BeautifulSoup.
+Using python and the LCD display driver created by Matthew Timmons-Brown, display data using API keys, requests, and BeautifulSoup.
